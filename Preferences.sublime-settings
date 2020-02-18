@@ -20,5 +20,6 @@
 	"show_definitions": false,
 	"show_full_path": true,
 	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+    "rulers": [100],
 }
