@@ -1,0 +1,5 @@
+.DS_Store
+*cache*
+*.crt
+*ca-bundle*
+*last-run*

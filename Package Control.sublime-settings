@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"FileIcons",
+		"Material Theme",
+		"Move By Paragraph",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"Rust Enhanced",
+		"TOML"
+	]
+}
