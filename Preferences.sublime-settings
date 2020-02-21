@@ -1,7 +1,8 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"copy_with_empty_selection": false,
 	"detect_indentation": false,
-	"font_face": "Menlo, Monaco, monospace",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
@@ -16,10 +17,14 @@
 	"material_theme_disable_folder_animation": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
+	"rulers":
+	[
+		100
+	],
 	"scroll_past_end": true,
 	"show_definitions": false,
 	"show_full_path": true,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-    "rulers": [100],
+	"trim_trailing_white_space_on_save": true
 }
