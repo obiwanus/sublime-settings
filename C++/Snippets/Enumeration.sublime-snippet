@@ -1,0 +1,8 @@
+<snippet>
+	<description>Enumeration</description>
+	<content><![CDATA[typedef enum {
+  $0
+} ${1:name};]]></content>
+	<tabTrigger>enum</tabTrigger>
+	<scope>source.c</scope>
+</snippet>

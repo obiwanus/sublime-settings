@@ -1,0 +1,8 @@
+<snippet>
+	<name>typedef struct</name>
+	<content><![CDATA[typedef struct {
+  $0
+} ${1};]]></content>
+	<tabTrigger>struct</tabTrigger>
+	<scope>source.c, source.objc, source.c++, source.objc++</scope>
+</snippet>
