@@ -1,0 +1,6 @@
+<snippet>
+	<name>=== separator ===</name>
+	<content><![CDATA[// ==================================== ${1:Title} ============================================$0]]></content>
+	<tabTrigger>separator</tabTrigger>
+	<scope>source.c, source.objc, source.c++, source.objc++</scope>
+</snippet>

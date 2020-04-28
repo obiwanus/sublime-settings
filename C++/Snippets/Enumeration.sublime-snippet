@@ -1,8 +1,8 @@
 <snippet>
 	<description>Enumeration</description>
-	<content><![CDATA[typedef enum {
+	<content><![CDATA[typedef ${1} {
   $0
-} ${1:name};]]></content>
+} ${1};]]></content>
 	<tabTrigger>enum</tabTrigger>
 	<scope>source.c</scope>
 </snippet>

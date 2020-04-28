@@ -1,6 +1,6 @@
 <snippet>
 	<name>typedef struct</name>
-	<content><![CDATA[typedef struct {
+	<content><![CDATA[typedef struct ${1} {
   $0
 } ${1};]]></content>
 	<tabTrigger>struct</tabTrigger>
